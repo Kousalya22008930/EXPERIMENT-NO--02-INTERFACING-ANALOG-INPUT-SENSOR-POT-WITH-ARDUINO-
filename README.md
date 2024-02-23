@@ -1,5 +1,8 @@
 ## INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
-
+### NAME: KOUSALYA A.
+### REG NO: 212222230068
+### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+### DATE: 23.02.2024
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
