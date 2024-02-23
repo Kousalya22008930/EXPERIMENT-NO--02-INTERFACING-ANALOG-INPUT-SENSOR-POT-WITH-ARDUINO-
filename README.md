@@ -85,11 +85,11 @@ void loop()
 
 **Simulation output:** 
 
-**ON:**
+### ON:
 ![exp2on](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/f7f1ccfc-9822-406b-a648-afe805a4df96)
-**OFF:**
+### OFF:
 ![exp2off](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/66cd32f8-931d-409a-a9b8-1e81ef0ea9ae)
-**Schematic view:**
+### Schematic view:
 ![exp2graph](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/751d422c-ef7d-4439-9146-d58539ced21b)
 
 
