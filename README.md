@@ -37,10 +37,6 @@ A potentiometer, informally a pot, is a three-terminal resistor with a sliding o
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
 CIRCUIT DIAGRAM
 
-**FIGURE -01**
-![schview2](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/e6d12de9-46b1-4958-90d4-dc50d8b27de1)
-
-
 **PROCEDURE:**
 
 1.	Connect the circuit as per the circuit diagram 
@@ -82,6 +78,7 @@ void loop()
   }
 }
 ```
+![exp2graph](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/751d422c-ef7d-4439-9146-d58539ced21b)
 
 ## Simulation output:
 
@@ -90,7 +87,7 @@ void loop()
 ### OFF:
 ![exp2off](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/66cd32f8-931d-409a-a9b8-1e81ef0ea9ae)
 ### Schematic view:
-![exp2graph](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/751d422c-ef7d-4439-9146-d58539ced21b)
+![schview2](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/e6d12de9-46b1-4958-90d4-dc50d8b27de1)
 
 
 ## RESULT:
