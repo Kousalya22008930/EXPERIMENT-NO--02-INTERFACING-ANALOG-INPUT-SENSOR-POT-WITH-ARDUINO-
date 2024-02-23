@@ -84,6 +84,7 @@ void loop()
 ```
 
 **Simulation output:** 
+
 **ON:**
 ![exp2on](https://github.com/Kousalya22008930/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119389108/f7f1ccfc-9822-406b-a648-afe805a4df96)
 **OFF:**
